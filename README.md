@@ -4,6 +4,8 @@
 
 **Aplicaoção didatica** Utilizando o Widget GestureDetector do flutter.
 
+![ScreenApp](https://github.com/Romariorfr/gesture_detector_flutter/blob/master/gesture.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
