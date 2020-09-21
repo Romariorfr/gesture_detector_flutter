@@ -1,8 +1,8 @@
 # gesture_detector
 
-**Didactic application** Using the GestureDetector widget of the flutter.
+**Didactic app** Using the GestureDetector widget of the flutter.
 
-**Aplicaoção didatica** Utilizando o Widget GestureDetector do flutter.
+**App didatico** Utilizando o Widget GestureDetector do flutter.
 
 ![ScreenApp](https://github.com/Romariorfr/gesture_detector_flutter/blob/master/gesture.gif)
 
