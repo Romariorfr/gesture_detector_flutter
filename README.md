@@ -1,6 +1,8 @@
 # gesture_detector
 
-teste widget gesture detector
+**Didactic application** Using the GestureDetector widget of the flutter.
+
+**Aplicaoção didatica** Utilizando o Widget GestureDetector do flutter.
 
 ## Getting Started
 
